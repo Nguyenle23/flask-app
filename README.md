@@ -1,4 +1,4 @@
-# Project: Dashboard Netflix
+# Project: Dashboard Movie
 > The other dashboard project for [Netflix Mern](https://github.com/Nguyenle23/netflix-mern).
 
 ## General ##
